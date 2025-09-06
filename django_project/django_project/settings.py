@@ -26,7 +26,8 @@ SECRET_KEY = 'fpkq1*8ry9fou7k2h*#ivtl!m-le*mrr2ai@7+5x^r(_c$jfjv'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'example.com'
+    'example.com',
+    '*'
 ]
 
 
